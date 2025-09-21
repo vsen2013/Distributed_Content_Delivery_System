@@ -1,7 +1,9 @@
 # Distributed Image Processing using PySpark in HDFS
 
 ```
-The number of images being uploaded to the internet each day is increasing at an alarming rate but the applications that can use and analyze these images are not available due to limitations in storage space required for the analysis of these large image datasets. Apache Hadoop is an open-source framework that enables distributed processing of Big Data using commodity hardware and Hadoop Distributed File System (HDFS). This project focuses on using Apache Hadoop, Apache Spark, C++ and Python programming language to analyze image datasets and using the k-means algorithm to perform color quantization and image compression.
+The number of images being uploaded to the internet each day is increasing at an alarming rate but the applications that can use and analyze these images are not available due to limitations in storage space required for the analysis of these large image datasets.
+
+Apache Hadoop is an open-source framework that enables distributed processing of Big Data using commodity hardware and Hadoop Distributed File System (HDFS). This project focuses on using Apache Hadoop, Apache Spark, C++ and Python programming language to analyze image datasets and using the k-means algorithm to perform color quantization and image compression.
 ```
 
 ## Code Structure
